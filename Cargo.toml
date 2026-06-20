@@ -1,0 +1,24 @@
+[package]
+   name = "leetcode_solutions"
+   version = "0.1.0"
+   edition = "2021"
+
+   [[bin]]
+   name = "find_difference"
+   path = "Code/FindtheDifferenceofTwoArrays/main.rs"
+
+   [[bin]]
+   name = "gcd_strings"
+   path = "Code/GreatestCommonDivisorofStrings/main.rs"
+
+   [[bin]]
+   name = "reverse_words"
+   path = "Code/ReverseWordsInaString/main.rs"
+
+   [[bin]]
+   name = "merge_strings_alternate"
+   path = "Code/MergeStringsAlternate/main.rs"
+
+   [[bin]]
+   name = "find_height_altitude"
+   path = "Code/FindtheHighestAltitude/main.rs"
