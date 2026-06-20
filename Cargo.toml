@@ -10,3 +10,5 @@
    [[bin]]
    name = "gcd_strings"
    path = "Code/GreatestCommonDivisorofStrings/main.rs"
+
+   
