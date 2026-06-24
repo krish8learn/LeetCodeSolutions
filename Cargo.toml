@@ -22,3 +22,11 @@
    [[bin]]
    name = "find_height_altitude"
    path = "Code/FindtheHighestAltitude/main.rs"
+
+   [[bin]]
+   name = "find_pivot_index"
+   path = "Code/FindPivotIndex/main.rs"
+
+   [[bin]]
+   name = "number_of_recent_calls"
+   path = "Code/NumberOfRecentCalls/main.rs"
