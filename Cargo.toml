@@ -30,3 +30,15 @@
    [[bin]]
    name = "number_of_recent_calls"
    path = "Code/NumberOfRecentCalls/main.rs"
+
+   [[bin]]
+   name = "reverse_vowels_of_a_string"
+   path = "Code/ReverseVowelsofaString/main.rs"
+
+   [[bin]]
+   name = "can_place_flowers"
+   path = "Code/CanPlaceFlowers/main.rs"
+
+   [[bin]]
+   name = "kids_with_the_greatest_number_of_candies"
+   path = "Code/KidsWiththeGreatestNumberofCandies/main.rs"
