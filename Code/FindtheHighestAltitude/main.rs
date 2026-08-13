@@ -1,5 +1,6 @@
 fn main() {
-
+    let gain = vec![-5, 1, 5, 0, -7];
+    println!("{}", Solution::find_highest_altitude(gain));
 }
 
 struct Solution;
